@@ -6,6 +6,6 @@ if guess==8:
 else:
     if guess>8:
         print("大了")
-    else：
+    else:
         print("小了")
 print("over")
